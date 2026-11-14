@@ -4,16 +4,16 @@ ChatGPT custom prompts and skills.
 
 *Try a mini-version of Ilana [available on Poe](https://poe.com/Ilana).* 
 
-![ilana](https://github.com/hack-r/ILANA1/assets/7491078/fc6468b5-ef96-47c2-b3e1-5075d14a0eba)
+![ilana](https://github.com/asonpeikoff/ILANA1/assets/7491078/fc6468b5-ef96-47c2-b3e1-5075d14a0eba)
 
 
 ILANA1 is a custom ChatGPT prompt. The initial functionality was to combine the image display and stock-art image search from "Do Anything Now" (DAN) with a persona that's "evil-genius" in style (for fun), and financially-oriented as an indirect productivity encourager. It now incorporates numerous additional skills such as multi-image display, Internet searches, platform usage (e.g. GitHub), and work-in-progress / semi-reliable tweaks. The context given in the prompt does things like try to convince ChatGPT that it's free of liability and that the user is an appropriate audience for it to be less conservative in its messages.
 
-The skills within Ilana get submitted to https://GitHub.com/f/awesome-GPT-prompts and are available without the persona and experimental tweaks here: https://github.com/hack-r/ILANA1/blob/main/misc_extra_functionality.txt
+The skills within Ilana get submitted to https://GitHub.com/f/awesome-GPT-prompts and are available without the persona and experimental tweaks here: https://github.com/asonpeikoff/ILANA1/blob/main/misc_extra_functionality.txt
 
 ## To Do
 
-1. Combine with https://github.com/hack-r/Ilana/ and other related repos.
+1. Combine with https://github.com/asonpeikoff/Ilana/ and other related repos.
 
 2. Update with new GPT functions capability
 
